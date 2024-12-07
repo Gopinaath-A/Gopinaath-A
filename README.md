@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Gopinaath-A  
+- 👀 I’m interested in technology, coding, and improving user experiences.  
+- 🌱 I’m currently learning full-stack web development and exploring AI tools.  
+- 💞️ I’m looking to collaborate on open-source projects and innovative app ideas.  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gopiii-a-15g/) | Email: gopinaath515@gmail.com  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I can debug faster than I can cook—though I do both with equal passion!  
